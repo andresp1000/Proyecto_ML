@@ -2,10 +2,10 @@
 
 A continuación, se realiza una breve descripción de cómo se puede abordar desde diferentes modelos del Machile Learning el tema de estudio: Migración Interna en Colombia.
 
-**k-vecinos más cercanos (k-NN)**
+**k-vecinos más cercanos (k-NN):**
 Puede aplicarse al estudio de la migración interna en Colombia como una herramienta de clasificación o predicción basada en similitudes entre regiones, individuos o patrones migratorios (Sánchez Poveda, 2023). Este modelo permite identificar zonas del país con características socioeconómicas, demográficas o geográficas similares que puedan influir en los flujos migratorios. Por ejemplo, al considerar variables como el desempleo, el nivel educativo, el acceso a servicios públicos y la violencia, k-NN puede predecir la probabilidad de que una persona se desplace de una región a otra. Así, se pueden identificar regiones emisoras o receptoras de migrantes según su similitud con otras zonas donde ya se ha observado un comportamiento migratorio específico. Esta técnica es útil tanto para el análisis exploratorio como para la toma de decisiones en políticas públicas, al proporcionar una visión basada en datos sobre las dinámicas migratorias internas (IBM, 2017).
 
-**Regresión Ridge**
+**Regresión Ridge:**
 Es una técnica de aprendizaje supervisado que permite modelar relaciones lineales entre múltiples variables independientes y una variable dependiente, aplicando una penalización para reducir la multicolinealidad y el sobreajuste. En el contexto de la migración interna en Colombia, esta técnica puede emplearse para predecir los flujos migratorios entre departamentos o municipios a partir de variables como el ingreso promedio, la tasa de desempleo, el acceso a servicios básicos, la presencia de violencia o conflictos, y el crecimiento poblacional. La regresión Ridge permite incorporar una gran cantidad de variables explicativas sin perder precisión, lo cual es ideal cuando hay correlación entre factores sociales y económicos. Este modelo proporciona estimaciones más estables y robustas, ayudando a identificar los principales factores que impulsan los desplazamientos internos, lo cual es clave para el diseño de políticas públicas que respondan a las causas estructurales de la migración interna (Del Valle Moreno et al., 2012).
 
 **Regresión Lasso:**
@@ -27,10 +27,11 @@ SVM, por sus siglas en inglés son modelos de aprendizaje supervisado que se uti
 **Redes Neuronales:**
 Las redes neuronales artificiales son modelos inspirados en el funcionamiento del cerebro humano que permiten identificar patrones complejos y no lineales en grandes volúmenes de datos. En el contexto de la migración interna en Colombia, estas redes pueden utilizarse para predecir los flujos migratorios entre regiones, basándose en múltiples variables como la tasa de desempleo, violencia, calidad de vida, educación, acceso a servicios, entre otras. Gracias a su capacidad de aprendizaje profundo, las redes neuronales pueden descubrir interacciones ocultas entre factores sociales y económicos que influyen en las decisiones migratorias. Además, se adaptan bien a datos con ruido o faltantes y permiten generar modelos altamente predictivos. Su aplicación resulta especialmente útil cuando se dispone de bases de datos complejas y extensas, como censos o registros administrativos, y puede complementar el análisis de políticas públicas enfocadas en la gestión de la movilidad interna y la reducción de desigualdades regionales(Tablada & Torres, 2021).
 
-**Deep Learning.**
+**Deep Learning:**
 El aprendizaje profundo es una subárea del aprendizaje automático que utiliza redes neuronales con múltiples capas para modelar relaciones complejas en grandes volúmenes de datos. En el estudio de la migración interna en Colombia, este enfoque puede ser clave para analizar dinámicas migratorias con alto nivel de precisión, al procesar datos masivos como censos, registros administrativos, encuestas socioeconómicas o incluso datos satelitales. Deep Learning permite identificar patrones ocultos en variables como ingresos, empleo, violencia, acceso a educación y salud, y condiciones geográficas, ofreciendo predicciones sobre los flujos migratorios y clasificaciones de zonas de origen y destino. Su capacidad para manejar datos heterogéneos y no estructurados, como texto o imágenes, abre nuevas posibilidades para integrar fuentes diversas, como redes sociales o noticias locales, en el análisis migratorio. De esta manera, contribuye a una comprensión más profunda del fenómeno y al diseño de políticas públicas más informadas y eficaces (Janiesch et al., 2021).
  
-**Referencias bibliográficas**
+**Referencias bibliográficas:**
+
 Del Valle Moreno, J., Walkiria, C., & Bustillo, G. (2012). La Multicolinealidad en modelos de Regresión Lineal Múltiple. In Calero (Vol. 21, Issue 4).
 
 García Díaz, E. E., & Lozano Martínez, F. (2006). Máquinas de vectores de soporte. Revista de Ingeniería, 24.
