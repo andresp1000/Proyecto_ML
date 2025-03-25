@@ -1,4 +1,4 @@
-# Modelos analisados en clase
+# Modelos analizados en clase
 
 A continuación, se realiza una breve descripción de cómo se puede abordar desde diferentes modelos del Machile Learning el tema de estudio: Migración Interna en Colombia.
 
